@@ -1,0 +1,33 @@
+{
+  "name": "minn-web",
+  "version": "1.0.0",
+  "description": "minn-web",
+  "main": "public/index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "connect-livereload": "^0.6.0",
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-uglify": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-newer": "^1.2.0",
+    "grunt-wiredep": "^3.0.1",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "minn-web"
+  ],
+  "author": "minn",
+  "license": "ISC"
+}

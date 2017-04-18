@@ -1,0 +1,35 @@
+{
+  "name": "minn-web",
+  "description": "minn-web",
+  "main": "public/index.html",
+  "authors": [
+    "minn"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "minn-web"
+  ],
+  "homepage": "http://fmfl.iteye.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.0",
+    "angular-route": "1.5.8",
+    "angular": "1.5.8",
+    "angular-animate": "1.5.8",
+    "angular-ui-bootstrap": "^2.5.0",
+    "angular-bootstrap": "^2.5.0",
+    "angular-touch": "1.5.8",
+    "JsBarcode": "jsbarcode#^3.5.9"
+  },
+  "srcPath": "src",
+  "dist": "public",
+  "tmp": ".tmp",
+  "devDependencies": {}
+}
